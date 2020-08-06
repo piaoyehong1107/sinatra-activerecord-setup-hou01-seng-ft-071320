@@ -1,7 +1,7 @@
 # A sample Gemfile
 source "https://rubygems.org"
 
-gem 'sinatra'
+  gem 'sinatra'
   gem 'thin'
   gem 'require_all'
   gem 'activerecord', '5.2'
